@@ -1,0 +1,6 @@
+/bin/
+/.settings/
+/.classpath
+/.project
+/ROOT/WEB-INF/classes/
+/conf/oauth_consumer.properties_dev
