@@ -1,0 +1,61 @@
+html, body {
+    background-color: #EEE;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+pre {
+    border: none;
+}
+
+.box {
+    background-color: #FFF;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+}
+
+.sep21 {
+    margin-top: 21px;
+}
+
+.questioner-img {
+    width:64px;
+    height:64px;
+    max-width: none;
+}
+
+.info {
+    height: 20px;
+    padding-bottom: 7px;
+}
+
+.answer-info {
+    height: 20px;
+    padding-bottom: 7px;
+}
+
+.answerer-img {
+    width:48px;
+    height:48px;
+    max-width: none;
+}
+
+.answerer-name {
+    float: left;
+}
+
+.answer-time {
+    float: right;
+    color: #999;
+}
+
+.footer {
+    margin-top: 17px;
+    padding-top: 17px;
+}
